@@ -50,7 +50,7 @@ GitHub Repository. https://github.com/lilin6ykx/hobbit-sentiment-analysis
 ## 📬 Contact
 
 Author: **Lilin Qiu**  
-Email: laurieqiu@protonmail dot com
+Email: laurenqiu12@proton dot me
 
 ---
 
